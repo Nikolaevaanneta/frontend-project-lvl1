@@ -16,5 +16,11 @@
         "url": "https://github.com/Nikolaevaanneta/frontend-project-lvl1/issues"
     },
     "type": "module",
-    "homepage": "https://github.com/Nikolaevaanneta/frontend-project-lvl1#readme"
+    "homepage": "https://github.com/Nikolaevaanneta/frontend-project-lvl1#readme",
+    "bin": {
+        "brain-games": "bin/brain-games.js"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
 }
