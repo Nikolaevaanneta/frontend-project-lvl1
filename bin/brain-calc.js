@@ -1,4 +1,4 @@
-import readlineSync, { question } from 'readline-sync';
+//import readlineSync, { question } from 'readline-sync';
 import { name } from './brain-games.js'
 
 export default function calculator() {
