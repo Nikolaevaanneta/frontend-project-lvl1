@@ -31,8 +31,6 @@ export default function calculator() {
             console.log(result);
             return;
         }
-
     }
-
     console.log(winResult);
 }
