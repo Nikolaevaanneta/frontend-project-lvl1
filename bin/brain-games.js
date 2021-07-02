@@ -28,4 +28,7 @@ switch (text) {
     case ('brain-prime'):
         brainPrime();
         break;
+    case (''):
+        console.error();
+        break;
 }
