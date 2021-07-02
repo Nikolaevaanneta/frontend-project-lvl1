@@ -8,7 +8,7 @@ import gameProgression from './brain-progression.js';
 import brainPrime from './brain-prime.js';
 
 console.log('Welcome to the Brain Games!');
-const text = readlineSync.question('Выберите игру: ');
+const text = readlineSync.question('');
 console.log('May I have your name? ');
 export const name = readlineSync.question('');
 console.log(`Hello, ${name}!`);
