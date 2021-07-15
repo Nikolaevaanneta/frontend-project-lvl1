@@ -8,7 +8,7 @@ const playRound = (maxNumber) => {
     const y = getRandomNumber(maxNumber);
     const operator = items[Math.ceil(Math.random() * 2)];
     const question = `${x} ${operator} ${y}`;
-    const correctAnswer = eval(exspression);
+    const correctAnswer = eval(question);
     const result = [question, correctAnswer];
     return result;
 };
