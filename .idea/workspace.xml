@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="052bba44-1e69-4b07-9e00-eaa6d87c0580" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frontend-project-lvl1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frontend-project-lvl1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/brain-calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-calc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-even.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-even.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-games.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-games.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-gcd.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-gcd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-prime.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-prime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/brain-progression.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/brain-progression.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/brain-calc.js" beforeDir="false" afterPath="$PROJECT_DIR$/games/brain-calc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/brain-even.js" beforeDir="false" afterPath="$PROJECT_DIR$/games/brain-even.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/brain-gcd.js" beforeDir="false" afterPath="$PROJECT_DIR$/games/brain-gcd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/brain-prime.js" beforeDir="false" afterPath="$PROJECT_DIR$/games/brain-prime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/brain-progression.js" beforeDir="false" afterPath="$PROJECT_DIR$/games/brain-progression.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/brain-games.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/brain-games.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cli.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626339354038</updated>
-      <workItem from="1626339362976" duration="1442000" />
+      <workItem from="1626339362976" duration="1992000" />
     </task>
     <servers />
   </component>
